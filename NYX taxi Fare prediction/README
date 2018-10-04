@@ -1,1 +1,3 @@
-NYC taxi fare prediction challenge on kaggle
+New Taxi Prediction challenge: It was a kaggle project under professor steven skiena. We were given Taxi data for all the rides over the last few years in NYC. The details included features like pickup_time,dropoff_time,pickup_latitude,dropoff_latitude, date and fare amount in the training data. In the test data, we had to predict the fare amount given all the above data. 
+
+I added my own features like, Airport distance and used techniques like Linear Regression, Random Forests and LGBM  and achieved a high rank of around 400/1300 in my first attempt.
