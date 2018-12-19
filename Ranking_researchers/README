@@ -1,1 +1,3 @@
 Ranking Academic Papers and Researchers
+Built a ranking metric to evaluate academic papers and researchers. We extracted features using citation sentiment analysis, a paper rank algorithm (based on page rank) to rank the papers, domain of the paper using LDA & designed an author collaboration graph to identify top authors across domains. Our ranking metric was based on these features
+We also performed time analysis & used our ranking metric to predict popularity of unpublished papers on Arxiv.
